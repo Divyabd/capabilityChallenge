@@ -8,8 +8,13 @@ public class HelloWorld {
 		int b=3;
 		System.out.println(a+b);
 		System.out.println("mindtree.com");
+<<<<<<< HEAD
 		int c=0;
 		int d=2;
+=======
+		System.out.println("Thank you");
+		System.out.println("welcome to possible");
+>>>>>>> refs/heads/branch1
 	}
 
 }
